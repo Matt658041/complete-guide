@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Udemy React Expense Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Teaches the managament of state and props.
 
 ## Available Scripts
 
-In the project directory, you can run:
+<img width="947" alt="Expense Tracker" src="https://user-images.githubusercontent.com/91630948/190434821-2e29f39d-ae07-497a-ab2a-37e50cd7c542.png">
 
 ### `npm start`
 
